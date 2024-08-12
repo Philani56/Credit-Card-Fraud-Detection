@@ -22,7 +22,7 @@ This project aims to detect fraudulent credit card transactions using machine le
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Credit-Card-Fraud-Detection.git
+    git clone https://github.com/Philani56/Credit-Card-Fraud-Detection.git
     ```
 
 2. Navigate to the project directory:
@@ -36,6 +36,14 @@ This project aims to detect fraudulent credit card transactions using machine le
     ```bash
     pip install -r requirements.txt
     ```
+
+### Dataset
+
+The dataset (`creditcard.csv`) used in this project is too large to be included in the repository. You can download it from the following link:
+
+- [Download Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) 
+
+Once downloaded, place the `creditcard.csv` file in the project directory.
 
 ### Usage
 
@@ -57,7 +65,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact 📧
 
-For any questions or feedback, please reach out to [your-email@example.com](mailto:khumalophilani580@gmail.com).
+For any questions or feedback, please reach out to [khumalophilani580@gmail.com](mailto:khumalophilani580@gmail.com).
 
 ---
 
